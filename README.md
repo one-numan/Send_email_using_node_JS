@@ -25,4 +25,10 @@ _____________________
 ## Index.js Code
 ![image](https://user-images.githubusercontent.com/48924562/231386337-26230e57-fc6a-4bb5-ab7c-c17da2793762.png)
 
+____________
+## Issue In Password | Password Not Wokring | Every Thing is Correct But Email Not Send - 🫥 Corner Case
+* Your Actual Gmail password is Not Working 
+* You Need to Create App Password from Gmail & 2 Step Verfication is Requied , Then You Will Create App Password
+	* Follow Google Offical Help Community https://support.google.com/accounts/answer/185833?hl=en
+
  
